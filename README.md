@@ -68,13 +68,13 @@ You can use any valid HEX color or pick from a predefined set of named colors (`
 **Named color**
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=oguzhanatas&color=green)
 ```
 
 **Hex color**
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=oguzhanatas&color=dc143c)
 ```
 
 > **NOTE**: HEX colors should be used without `#` symbol prefix.
@@ -90,7 +90,7 @@ The following styles are available (`flat` is the default).
 | `plastic` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic) |
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=oguzhanatas&style=flat-square)
 ```
 
 ### Label
@@ -100,7 +100,7 @@ You can overwrite default `Profile views` text with your own label.
 ![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=oguzhanatas&label=PROFILE+VIEWS)
 ```
 
 > **NOTE**: Replace whitespace with `+` character in multi-word labels.
